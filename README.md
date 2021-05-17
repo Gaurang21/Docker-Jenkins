@@ -22,3 +22,9 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 1. Create freestyle project and link it to github repository
  ![Screenshot (118)](https://user-images.githubusercontent.com/38041438/118447519-bbb51d00-b6a5-11eb-8fe9-7e2eee2ab4f5.png)
+ 
+ Set target as jar file
+ ![Screenshot (120)](https://user-images.githubusercontent.com/38041438/118447711-f4ed8d00-b6a5-11eb-93a6-77bc9a37cdc2.png)
+
+2. Monitor the build on console output
+ ![Screenshot (123)](https://user-images.githubusercontent.com/38041438/118447916-2a927600-b6a6-11eb-9ebf-6991a6c0f499.png)

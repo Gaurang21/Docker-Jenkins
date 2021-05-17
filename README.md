@@ -19,3 +19,6 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
 # Create test job on Jenkins - Apache Ivy GitHub Project
+
+1. Create freestyle project and link it to github repository
+ ![Screenshot (118)](https://user-images.githubusercontent.com/38041438/118447519-bbb51d00-b6a5-11eb-8fe9-7e2eee2ab4f5.png)

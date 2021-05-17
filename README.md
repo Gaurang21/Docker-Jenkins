@@ -17,3 +17,5 @@ docker run --detach --publish 8080:8080 volume jenkins_home:/var/jenkins_home --
 ```bash
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
+
+# Create test job on Jenkins - Apache Ivy GitHub Project

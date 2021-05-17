@@ -28,3 +28,6 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 2. Monitor the build on console output
  ![Screenshot (123)](https://user-images.githubusercontent.com/38041438/118447916-2a927600-b6a6-11eb-9ebf-6991a6c0f499.png)
+ 
+ Build Success
+ ![Screenshot (125)](https://user-images.githubusercontent.com/38041438/118448116-6a595d80-b6a6-11eb-9438-36f3ced98d14.png)

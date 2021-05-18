@@ -34,5 +34,5 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 # Create a scheduled job to monitor the disk space on the server
 
-The below screenshot shows job scheduled to build every mid night.
+The below screenshot shows job scheduled to build every mid night .
 ![Screenshot (127)](https://user-images.githubusercontent.com/38041438/118450114-b5747000-b6a8-11eb-8ae3-67d5e8102ca2.png)
